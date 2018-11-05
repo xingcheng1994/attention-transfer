@@ -1,3 +1,5 @@
+# 论文 "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer" 的PyTorch实现。
+
 Attention Transfer
 ==============
 
